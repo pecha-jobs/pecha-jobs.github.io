@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-<div class="home">
-  {% capture index %}{% include index.md %}{% endcapture %}
-  {{ index | markdownify }}    
-</div>
 
 ## About Us
 

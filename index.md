@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<div class="home">
+  {% capture index %}{% include index.md %}{% endcapture %}
+  {{ index | markdownify }}    
+</div>
+
 ## About Us
 
 We provide data sourcing and processing services for individuals and organizations who are working to preserve and promote the Tibetan language, culture, and religion.

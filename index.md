@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-
-## About Us:
+## About Us
 
 We provide data sourcing and processing services for individuals and organizations who are working to preserve and promote the Tibetan language, culture, and religion.
 
-## Services:
+## Services
 
 Our core services include:
 - Labeling
@@ -14,7 +13,7 @@ Our core services include:
 - Proofreading
 - Input
 - Linking
-- Transcription.
+- Transcription
 
 For inquiries, please fill out the form below.
 

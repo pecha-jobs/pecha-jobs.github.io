@@ -8,3 +8,17 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+
+
+
+docs_list_title: ACME Documentation
+docs:
+
+- title: Intro
+  url: index.md
+
+- title: Work with us
+  url: form.md
+
+- title: Our services
+  url: services.md

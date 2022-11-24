@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Pecha.jobs specializes in Tibetan language processing. Contact us for:
+We do:
 - Input
 - Transcription
 - Proofreading

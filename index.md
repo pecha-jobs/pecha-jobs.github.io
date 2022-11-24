@@ -2,16 +2,14 @@
 layout: default
 ---
 
-Pecha.jobs provides data sourcing and processing services for individuals and organizations who are working to preserve and promote the Tibetan language, culture, and Buddhism.
-
-Our core services include:
-- Labeling
-- Data preparation
+Contact us for Tibetan language jobs like:
+- Transcription
 - Proofreading
 - Input
-- Linking
-- Transcription
+- Labeling
+- Data preparation
+- Text and commentary linking
 
-For inquiries, please fill out the form below.
+For inquiries, please fill out the form below:
 
  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8AXo4BaCCzuBj2Jg2GPnvlvM0MfiDLFqdIEId2LBLOo2Q5Q/viewform?embedded=true" width="640" height="674" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Our freelancers provide the following services:
+Our freelancers provide the following **Tibetan language services**:
 - Input
 - Transcription
 - Proofreading
-- Text and commentary linking
+- Root text and commentary linking
 - Data labeling
 - Citation source identification
 

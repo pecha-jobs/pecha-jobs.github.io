@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Our freelancers do:
+Our freelancers provide the following services:
 - Input
 - Transcription
 - Proofreading
-- Labeling
 - Text and commentary linking
-- Finding citation sources
+- Data labeling
+- Citation source identification
 
 For inquiries, please fill out the form below:
 

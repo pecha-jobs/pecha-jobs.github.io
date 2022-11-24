@@ -2,7 +2,7 @@
 layout: default
 ---
 
-We do:
+Our freelancers do:
 - Input
 - Transcription
 - Proofreading

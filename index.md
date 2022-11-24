@@ -2,11 +2,7 @@
 layout: default
 ---
 
-## About Us
-
-We provide data sourcing and processing services for individuals and organizations who are working to preserve and promote the Tibetan language, culture, and religion.
-
-## Services
+Pecha.jobs provides data sourcing and processing services for individuals and organizations who are working to preserve and promote the Tibetan language, culture, and Buddhism.
 
 Our core services include:
 - Labeling

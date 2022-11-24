@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Contact us for Tibetan language jobs like:
+Pecha.jobs specializes in Tibetan language processing. Contact us for:
+- Input
 - Transcription
 - Proofreading
-- Input
 - Labeling
-- Data preparation
 - Text and commentary linking
+- Finding citation sources
 
 For inquiries, please fill out the form below:
 

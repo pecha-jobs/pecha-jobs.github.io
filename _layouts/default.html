@@ -25,15 +25,27 @@
 
         <p class="view">Our freelancers provide the following <strong>Tibetan language services</strong>:</p>
         
-        <ul class="downloads">        
-          <li><a href="">Etext discovery</a></li>
-          <li><a href="">Input</a></li>
-          <li><a href="">Transcription</a></li>
-          <li><a href="">Proofreading</a></li>
-          <li><a href="">Text and commentary linking</a></li>
-          <li><a href="">Data labeling</a></li>
-          <li><a href="">Citation source identification</a></li>
-        </ul>        
+   <style scoped>
+        ul.link a {
+            color: var(--clr-h1-and-bold);
+            text-decoration: none;
+        }
+        
+        ul.link a:hover,
+        a:focus {
+            color: var(--clr-a-text-hvr);
+        }
+    </style>
+    <ul class="link">
+        <li><a href="https://github.com/openpecha" rel="author"><i class="fab fa-github"></i> GitHub</a></li>
+        <li><a href="https://discord.gg/7GFpPFSTeA" rel="external"><i class="fab fa-discord"></i> Discord</a></li>
+        <li><a href="https://docs.openpecha.org" rel="external"><i class="fas fa-book-reader"></i> Doc</a></li>
+        <li><a href="https://huggingface.co/openpecha" rel="external">🤗 Hugging Face</a></li>
+        <li><a href="https://medium.com/@OpenPecha" rel="external"><i class="fab fa-medium"></i> Medium</a></li>
+        <li><a href="https://twitter.com/openpecha" rel="external"><i class="fab fa-twitter"></i> Twitter</a></li>
+    </ul>
+    <br>
+      
 
 <!--         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>

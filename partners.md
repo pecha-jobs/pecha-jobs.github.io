@@ -26,4 +26,5 @@ The **Buddhist Digital Resource Center** is a nonprofit organization dedicated t
 
 ![pecha jobs logo](https://user-images.githubusercontent.com/51434640/194739884-2fc3d7f2-0b2b-4a3f-9091-7eefb62c3cc3.png)
 
-**pecha.jobs** data sourcing and processing technical services for individuals and organizations working to preserve and promote the Tibetan language, culture, and religion.
+**OpenPecha** is a free open dataset of e-texts and annotations, and a toolset to create and enrich the dataset.
+ 

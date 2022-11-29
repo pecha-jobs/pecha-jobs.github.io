@@ -1,5 +1,5 @@
 
-# Proofreading services
+# Proofreading
 
 Our proofreading services involve the following process:
 

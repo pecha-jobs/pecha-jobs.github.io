@@ -1,5 +1,5 @@
 
-# Linking services
+# Commentary linking
 
 We provide the following sentence-level linking services:
 

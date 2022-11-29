@@ -1,5 +1,5 @@
 
-# Transcription services
+# Transcription
 
 Our team can transcribe **audio** and **video** files of the following Tibetan dialects:
 

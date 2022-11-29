@@ -1,5 +1,5 @@
 
-# Input services
+# Input
 
 Our team can input from physical books or image files.
 

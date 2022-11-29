@@ -1,10 +1,10 @@
 <h1 align="center">
   <br>
-  <a href="https://openpecha.org"><img src="https://avatars.githubusercontent.com/u/82142807?s=400&u=19e108a15566f3a1449bafb03b8dd706a72aebcd&v=4" alt="OpenPecha" width="150"></a>
+  <a href="https://pechajobs.gihub.io"><img src="https://avatars.githubusercontent.com/u/111121384?s=400&u=8845a52564bdd6b236cbff4c95843c475f0fa3b7&v=4" alt="OpenPecha" width="150"></a>
   <br>
 </h1>
 
-<h3 align="center">OpenPecha.Github.io</h3>
+<h3 align="center">pechajobs.Github.io</h3>
 
 
 <!-- Replace the title of the repository -->
@@ -19,7 +19,7 @@
 
 ## Description
 
-These are the website files for openpecha.org
+These are the website files for pechajobs.github.io
 
 <!-- This section provides a high-level overview for the repo -->
 

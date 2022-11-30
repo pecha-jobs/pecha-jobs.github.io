@@ -1,7 +1,11 @@
 
 # Transcription
 
-Our team can transcribe **audio** and **video** files of the following Tibetan dialects:
+High quality transcriptions of Tibetan speech require transcribers who are highly educated, since Tibetan spelling isn't standardized and many words in spoken Tibetan and its dialects don’t even have written equivalents.
+
+Our trained transcribers can transcribe about 10 minutes of Tibetan speech per day each. They use [oTranscribe](https://otranscribe.com) and [SayMore](https://software.sil.org/saymore/) and can work with a variety of audio and video files formats.
+
+Dialects that our transcribes can transcribe include:
 
 - Amdo 
 - Kham
@@ -9,4 +13,6 @@ Our team can transcribe **audio** and **video** files of the following Tibetan d
 - Tibetan from neighboring Himalayan areas
 - Diaspora Tibetan
 
-Transcripts are done by Tibetan from the same area that is spoken in your recordings.
+Transcriptions are done by Tibetans from the same area that is spoken in your recordings.
+
+Recordings that contain technical or specialized vocabulary, such as medical, astrological, or Buddhist jargon are given to transcribed who are knowledgable in those areas.

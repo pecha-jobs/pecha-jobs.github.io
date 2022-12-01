@@ -1,32 +1,24 @@
 
 # Version sourcing
 
-For any text work, we get a semi-autometed process to find every existing digital version of the text.
+For any Tibetan work, we can perform a comphrehensive search on your behalf of all the available digital versions.
 
-Three steps
+Depending on your needs and budget, we offer three options of increasing comrehensiveness. 
+## Option one: semi-automatically sourcing all versions of a text in the BDRC collection linked to its author
 
-Cheapest option.
+Using Shantideva's "Bodhicaryavatara" as an example, we start by searching for all the works in the Buddhist Digital Resource Center (BDRC) collection that have been tagged with Shantideva's author identification number. Within those results, our scholars look for all of the instances of "Bodhicaryavatara." Because versions might come in collections or might be listed with alternative titles, this part of the search is done manually.
 
-1. Semi-automatically find that already linked to Shantideva
-BDRC auto generates all works under the author Shantideva. Within this list, Junjuk can come under different titles. Link these to unique identifier. 30 moniures
-files that linked to Shantideva and everything that contains junjuk is linked to junjuk
-instance up to a 1/2 day
+This option takes up to a day, depending on the work. 
+## Option two: an in-depth survey of BDRC's collection including unlinked texts
 
-indentify whether the linked texts are related
+This option includes the previous process and goes further. We also look for instances of "Bodhicaryavatara" in the BDRC system that haven't been linked to Shantideva. This includes searching for versions by the title and all of its variations and by keyword phrases contained within the text.
 
-2. In-depth research of BDRC. Find copies that aren't linked to Junjuk. 
-Look for alternatives of the title in all BDRC titles whether they are linked to the author or not. Search for instances of text through the title and then search keywords.
-1-2 days
+This option takes 1-2 days, depending on the work.
 
-for a given author - 
-Semi-automated 
+## Option three: searching the internet and the collections of publishers and monasteries
 
+This option includes the previous two processes and extends the search to entire internet. We also contact publishers and monasteries in our network and ask them if they have digital copies of the text.
 
-3. Search the internet for non- BDRC sources. Finding everything on the internet. Contact files from our network of publishers and monestaries. 
+This option takes up to a week, depending on the work.
 
-1 week 
-
-Provide links and files.
-
-
-
+For all three options, we provide a list of download links and a collection of files.

@@ -1,6 +1,8 @@
 
 # Resource sourcing
 
+
+
 Same thing as version. Same but also looking for every existing text
 
 This includes:

@@ -1,7 +1,7 @@
 
 # Transcription
 
-High quality transcriptions of Tibetan speech require transcribers who are highly educated, since Tibetan spelling isn't standardized and many words in spoken Tibetan and its dialects don’t even have written equivalents.
+Quality transcriptions of Tibetan speech require transcribers who are highly educated, since Tibetan spelling isn't standardized and many words in spoken Tibetan dialects don’t have written equivalents.
 
 Our trained transcribers can transcribe about 10 minutes of Tibetan speech per day each. They use [oTranscribe](https://otranscribe.com) and [SayMore](https://software.sil.org/saymore/) and can work with a variety of audio and video files formats.
 

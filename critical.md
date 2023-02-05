@@ -9,3 +9,5 @@ We can assist you or outsource any of the following phases:
 - Exact digitization of selected versions as diplomatic e-texts
 - Creation of a neutral "vulgate" etext to use as the base text
 - Critical editing by Tibetan scholars
+
+[Fill in this form for a quote.](https://pecha.jobs/)
